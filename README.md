@@ -5,9 +5,7 @@ Instructions:
 
 1) Download this development
 2) Unzip to directory of your choice
-3) In Bonita UI Designer:
-3.1) Import custom widget d3RadarChartWidget
-3.2) Import page d3RadarChartPage
+3) In Bonita UI Designer - Import page d3RadarChartPage
 4) Open d3RadarChartPage
 5) Click Preview
 
